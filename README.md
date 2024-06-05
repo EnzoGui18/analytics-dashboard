@@ -1,14 +1,12 @@
+# Dashboard de Analytics
 
-Claro! Aqui está um exemplo de um README básico para a sua aplicação no GitHub:
-
-Dashboard de Analytics
 Este é um projeto de um Dashboard de Analytics desenvolvido com React.js. Ele exibe gráficos e estatísticas interativas usando bibliotecas como Chart.js ou Recharts. Além disso, inclui filtros dinâmicos, visualizações de dados em tempo real e integração com APIs de analytics.
 
-Como Usar
+# Como Usar
 Pré-requisitos
 Certifique-se de ter o Node.js instalado na sua máquina.
 
-Instalação
+# Instalação
 Clone este repositório:
 bash
 Copiar código
